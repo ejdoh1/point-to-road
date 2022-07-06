@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 230536745,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            143.867,
+            -36.57323
+          ],
+          [
+            143.866212,
+            -36.571791
+          ],
+          [
+            143.866182,
+            -36.571735
+          ],
+          [
+            143.866143,
+            -36.571665
+          ],
+          [
+            143.866121,
+            -36.571624
+          ],
+          [
+            143.865727,
+            -36.570904
+          ],
+          [
+            143.865597,
+            -36.570668
+          ],
+          [
+            143.86513,
+            -36.569832
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "trunk",
+        "maxspeed": "60",
+        "name": "Brooke Street",
+        "oneway": "no",
+        "ref": "A79",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 230536745,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": []
+      },
+      "properties": {
+        "highway": "trunk",
+        "maxspeed": "60",
+        "name": "Brooke Street",
+        "oneway": "no",
+        "ref": "A79",
+        "surface": "asphalt"
+      }
+    }
+  ]
+}
